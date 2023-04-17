@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+body {
+    background-image: url("background.jpg");
+    font-family: 'Inter', sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 4em;
+}
+
+#text {
+    font-weight: bold;
+    margin-top: 40vw;
+    margin-bottom: 80vw;
+}
+
+textarea {
+    width: 80vw;
+    height: 40vw;
+    font-size: .5em;
+    margin-bottom: 40vw;
+    font-family: 'Inter', sans-serif;
+}
+
+.space {
+    margin-top: 80vw;
+    margin-bottom: 40vw;
+}
+
+#text {
+    font-weight: bold;
+    margin-top: 40vw;
+    margin-bottom: 40vw;
+}
+
+#link {
+    color: white;
+    font-size: 1em;
+    margin-bottom: 40vw;
+}
